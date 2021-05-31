@@ -1,6 +1,6 @@
 
 dues = {
-    "shricunt" : 100,
+    "shricunt sab lode" : 100,
     "agand" : -600,
     "gayrub" : 300,
     "gayman wormaaa" : -320,
