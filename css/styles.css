@@ -1,0 +1,49 @@
+/* div {
+    padding: 5px;
+} */
+
+@import url('https://fonts.googleapis.com/css?family=Meie+Script|Shadows+Into+Light|Arvo|Monda');
+.font_meie_script {
+  font-family: 'Arvo', serif;
+  font-style: italic;
+  font-weight: 400;
+}
+
+  
+.row-header {
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 4px ridge #ddd;
+    min-height: 350px;
+}
+
+
+.jumbotron {
+    background-color: rgb(195, 150, 212);
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    color: floralwhite;
+}
+
+.footer {
+    background-color: rgb(231, 207, 240);
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.address {
+    font-size: 80%;
+    margin: 0px;
+    /* padding: 10px; */
+    color: #0f0f0f;
+}
+
+.underlinelink a {
+    text-decoration: underline;
+}
